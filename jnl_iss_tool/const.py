@@ -1,0 +1,31 @@
+# coding: UTF-8
+
+
+SEL_MF = 0
+SEL_YAYOI = 1
+
+ACCT_NM_KAWASESAEKI = '為替差益'
+ACCT_NM_KAWASESASON = '為替差損'
+ACCT_NM_YUKASHOKEN = '有価証券'
+ACCT_NM_GAIKAYOKIN = '外貨預金'
+ACCT_NM_FUSTUYOKIN = '普通預金'
+ACCT_NM_AZUKEKIN = '預け金'
+ACCT_NM_SOZEIKOKA = '租税公課'
+ACCT_NM_UKETORIHAITO = '受取配当'
+ACCT_NM_UKETORIRISOKU = '受取利息'
+ACCT_NM_BLANK = ''
+
+SUB_ACCT_NM_SBI_STK = 'SBI証券'
+SUB_ACCT_NM_SBI_BNK_JPY = '住信SBIネット銀行'
+SUB_ACCT_NM_SBI_BNK_USD = '住信SBIネット銀行_米ドル'
+SUB_ACCT_NM_BLANK = ''
+
+TAX_TYPE_TAISHOGAI = '対象外'
+
+JNL_NM_XFR_EXC = '通貨振替（円 ⇒ 米ドル）'
+JNL_NM_XFR_SVNG = '預け金振替（外貨預金 ⇒ 証券）'
+JNL_NM_INTRST = '受取利息'
+JNL_NM_PMT_TAX = '国税支払'
+JNL_NM_BUY_ASSET = '有価証券購入'
+JNL_NM_INCM_GAIN = '受取配当'
+
